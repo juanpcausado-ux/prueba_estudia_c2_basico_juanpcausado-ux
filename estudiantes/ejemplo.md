@@ -2,12 +2,12 @@
 
 ## Qué estudio o a qué me dedico
 
-<!-- Una o dos frases. -->
+estudio ingeniería mecatrónica y una tecnología de automatización industrial 
 
 ## Qué quiero aprender en este curso
 
-<!-- Una o dos frases. -->
+quiero mejor mis aspectos de programación y quiero mejorar mi manejo de distintos tipos de herramientas
 
 ## Una herramienta que ya conozco
 
-<!-- Por ejemplo: Excel, SQL, Python, Power BI. -->
+<!-- no manejo ninguna herramienta de alguna de las mencionadas anteriormente -->
