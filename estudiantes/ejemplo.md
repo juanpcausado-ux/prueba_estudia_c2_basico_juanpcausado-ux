@@ -1,5 +1,5 @@
 # Hola, soy <tu nombre o apodo>
-
+Juan Manuel Paniagua Causado
 ## Qué estudio o a qué me dedico
 
 estudio ingeniería mecatrónica y una tecnología de automatización industrial 
