@@ -10,4 +10,4 @@ quiero mejor mis aspectos de programación y quiero mejorar mi manejo de distint
 
 ## Una herramienta que ya conozco
 
-<!-- no manejo ninguna herramienta de alguna de las mencionadas anteriormente -->
+no manejo ninguna herramienta de alguna de las mencionadas anteriormente
